@@ -1,0 +1,21 @@
+Hello and welcome to this directory detailing all of the python script that I have written and executed for this research project. 
+I hope that you are comfortably sat and have a refreshing beverage while you evaluate my scripts.
+
+Lei pregghiamo a trovare dentro, tutti i file che abbiamo usato durante questo projetto.
+
+In the sub-directory, Histogram_Analysis, you shall find the script used to present the Umbrella Sampling histograms in addition to the scripts used to evaluate and quantify overlap.
+Moreover, one may find all of the files necessary for one to re-perform these scripts in order to verify ther veracity of our own plots.
+
+One may also locate the Force_Distance sub-directory which contains two further sub folders dedicated to the hairpin and helix proteins. 
+Within these, one may locate the scripts used to analyse the force vs distance profiles featured in the complete project.
+As was true before, one may also find all of the source files ued to generate such plots should one be motivated to verify our results with their own.
+
+Finally, one is invited to view the Velocity_Analysis sub-directory.
+Here, we feature data generated from the four varied velocity pulling simulations and have provided a code which is able to create some beautiful plots.
+
+The author of this repository and indeed of the report article (who happen to be one and the same) wishes to thank their viewers and readers for their curiosity
+and for their time dedicated to the inspection of the author's work.
+
+Grazie mille a tutti.
+
+Speriamo che si diverta qui.
